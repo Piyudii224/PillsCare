@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "162206090913",
+    "firebase_url": "https://pillscare-11410-default-rtdb.firebaseio.com",
+    "project_id": "pillscare-11410",
+    "storage_bucket": "pillscare-11410.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162206090913:android:e5f0380f9aada10cb492e0",
+        "android_client_info": {
+          "package_name": "com.crackint.pillscare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162206090913-ickfl4uf1s6akkpav1lb2pdbu5s0u8cl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crackint.pillscare",
+            "certificate_hash": "644fdbccbed3599794419cd98a11b22610008999"
+          }
+        },
+        {
+          "client_id": "162206090913-ceg1red4ia3j2mhin5bb002ujd033338.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl_kbnVZY_cZ4BgxWDwNimM57G-1RZ_KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162206090913-ceg1red4ia3j2mhin5bb002ujd033338.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

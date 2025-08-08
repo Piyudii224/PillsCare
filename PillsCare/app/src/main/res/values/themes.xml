@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PillsCare" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="hintTextColor">@color/green</item>
+        <item name="android:textColor">@color/green</item>
+
+        <item name="android:statusBarColor">@color/green</item>
+        <item name="android:navigationBarColor">@color/green</item>
+
+    </style>
+
+    <style name="Theme.PillsCare" parent="Base.Theme.PillsCare" />
+</resources>
